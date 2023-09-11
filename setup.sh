@@ -135,11 +135,9 @@ create(){
         sleep 1
     else
         echo "[✓] Cloning into ramdisk/..."
-        git clone https://github.com/nocontent06/2ndra1n_ramdisk.git
+        git clone https://github.com/nocontent06/2ndra1n_ramdisk.git ramdisk/
         echo "[✓] ramdisk/ cloned"
-        echo "[✓] Renaming folder 2ndra1n_ramdisk/ to ramdisk/"
-        mv "2ndra1n_ramdisk/" "ramdisk/"
-        echo "[✓] ramdisk/ renamed"
+        
         sleep 1
     fi
 
