@@ -5,7 +5,7 @@
 <h1> (Archived) 
 </div>
 
-<h5 align="center"> The original developer of this project cancelled it thus making this fork an archive in the case of a removal. 
+<h5 align="center"> The original developer (https://github.com/hung) of this project cancelled it thus making this fork an archive in the case of a removal. 
 
 <h4 align="left"> Here are a few screenshots of the project:
 
